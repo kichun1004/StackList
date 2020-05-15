@@ -11,6 +11,9 @@ public class StackList {
 		Scanner sc = new Scanner(System.in);
 		String str;
 		while (true) {
+			System.out.println("git 테스트 용도입니다.1");
+			System.out.println("git 테스트 용도입니다.2");
+			System.out.println("git 테스트 용도입니다.3");
 			System.out.println("스택의 크기를 정해주세요.");
 			try {
 				size = sc.nextInt();
